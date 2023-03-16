@@ -1,38 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+这是一个使用['create-next-app']（https://github.com/vercel/next.js/tree/canary/packages/create-next-app）引导的[Next. js]（https://nextjs.org/）项目。
 
-## Getting Started
 
-First, run the development server:
+##入门
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+首先，运行开发服务器：
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+"'bash
+npm运行开发
+#或
+纱线开发
+#或
+pnpm开发
+“”
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+用浏览器打开[http://localhost:3000]（http://localhost:3000）以查看结果。
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+您可以通过修改“page/index. js”开始编辑页面。当您编辑文件时，页面会自动更新。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[API路由]（https://nextjs.org/docs/api-routes/introduction）可以在[http://localhost:3000/api/hello]（http://localhost:3000/api/hello）上访问。该端点可以在“页面/api/hello. js”中编辑。
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+“页面/api”目录映射到“/api/*”。此目录中的文件被视为[API路由]（https://nextjs.org/docs/api-routes/introduction），而不是React页面。
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+该项目使用['next/font']（https://nextjs.org/docs/basic-features/font-optimization）来自动优化和加载自定义Google Font。
+
+
+##了解更多
+
+
+要了解有关Next. js的更多信息，请查看以下资源：
+
+
+-[Next. js文档]（https://nextjs.org/docs）-了解Next.js功能和API。
+-[学习Next. js]（https://nextjs.org/learn）-交互式Next.js教程。
+
+
+您可以查看[the Next. js GitHub存储库]（https://github.com/vercel/next.js/）-欢迎您的反馈和贡献！
+
+
+##在Vercel上部署
+
+
+部署Next. js应用程序的最简单方法是使用Next.js创建者的[Vercel Platform]（https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme）。
+
+
+查看我们的[Next. js部署留档]（https://nextjs.org/docs/deployment）了解更多详细信息。
+
