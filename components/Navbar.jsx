@@ -2,7 +2,7 @@
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2023-03-09 08:40:26
  * @LastEditors: MMMMob dengt9428@gmail.com
- * @LastEditTime: 2023-03-20 08:39:57
+ * @LastEditTime: 2023-03-20 09:04:53
  * @FilePath: \portfolio-nextjs-mainc:\Users\DT\Desktop\portfolio-website\components\Navbar.jsx
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -78,14 +78,16 @@ export default function Navbar() {
     >
       <div className=" flex  justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/">
-          <Image
-            src="/../public/assets/navLogo.png"
-            alt="/"
-            width="125"
-            height="50"
-            layout="fixed"
-            className="px-4"
-          />
+          <a>
+            <Image
+              src="/../public/assets/navLogo.png"
+              alt="/"
+              width="125"
+              height="50"
+              layout="fixed"
+              className="px-4"
+            />
+          </a>
         </Link>
         <div className="px-4">
           <ul style={{ color: linkColor }} className="hidden md:flex">
