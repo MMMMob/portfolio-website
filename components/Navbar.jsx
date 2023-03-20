@@ -1,8 +1,8 @@
 /*
  * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
  * @Date: 2023-03-09 08:40:26
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2023-03-15 20:04:32
+ * @LastEditors: MMMMob dengt9428@gmail.com
+ * @LastEditTime: 2023-03-20 08:39:57
  * @FilePath: \portfolio-nextjs-mainc:\Users\DT\Desktop\portfolio-website\components\Navbar.jsx
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -84,7 +84,6 @@ export default function Navbar() {
             width="125"
             height="50"
             layout="fixed"
-            priority={true}
             className="px-4"
           />
         </Link>
