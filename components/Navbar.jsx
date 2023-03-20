@@ -80,16 +80,14 @@ export default function Navbar() {
     >
       <div className=" flex  justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href="/">
-          <a>
-            <Image
-              src="../public/assets/navLogo.png"
-              alt="/"
-              width="125"
-              height="50"
-              layout="fixed"
-              className="px-4"
-            />
-          </a>
+          <Image
+            src={navLogo}
+            alt="/"
+            width="125"
+            height="50"
+            layout="fixed"
+            className="px-4"
+          />
         </Link>
         <div className="px-4">
           <ul style={{ color: linkColor }} className="hidden md:flex">
